@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:mina/feature/auth/login/screen/login_screen.dart';
 import 'package:sizer/sizer.dart';
-import 'package:task_5/feature/auth/login/screen/login_screen.dart';
 
 void main() {
   runApp(
